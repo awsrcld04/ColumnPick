@@ -31,7 +31,7 @@ namespace ColumnPick
 
         static void funcPrintParameterSyntax()
         {
-            Console.WriteLine("ColumnPick v1.0 (c) 2011 SystemsAdminPro.com");
+            Console.WriteLine("ColumnPick v1.0);
             Console.WriteLine();
             Console.WriteLine("Description: Extract a single colum from a delimited source file");
             Console.WriteLine();
